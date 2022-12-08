@@ -3,3 +3,5 @@ __pycache__
 .ipynb_checkpoints
 PatchClassifier/Data_CMC1
 PatchClassifier/images
+Icon*
+models
